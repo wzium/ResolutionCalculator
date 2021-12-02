@@ -1,6 +1,6 @@
 # ResolutionCalculator
 A program which calculates the best resolution for your image.\
-It uses the image resolution and ratio (both of them are user's input) to calculate the closest value possible.\
+It uses the image resolution and ratio (both of them are user's input) to calculate the closest value possible.
 
 ## Usage
 1. Start by launching `main.py` file
